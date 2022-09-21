@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @human-b-eng
+- 👀 I’m interested in learning new things and exploring technology
+- 🌱 I’m currently learning software engineering @thinkful
